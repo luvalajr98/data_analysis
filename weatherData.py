@@ -1,6 +1,6 @@
 import sys
 
-# Define a character
+# Define a character or characters
 char = 'a'
 
 # Get the size of the character
